@@ -12,5 +12,10 @@ namespace PracticaMAP4
         {
             Console.BackgroundColor = ConsoleColor.Green;
         }
+
+        static public void ScrollPieces()
+        {
+            //metodo que gira piezas hipoteticamente
+        }
     }
 }
