@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\pauli\\.nuget\\packages\\": {}
+    "C:\\Users\\elena\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Grupo07\\PracticaMAP4\\PracticaMAP4\\PracticaMAP4.csproj",
+      "projectUniqueName": "C:\\Users\\elena\\Desktop\\Grupo07\\Grupo07JuegoConsola\\PracticaMAP4\\PracticaMAP4\\PracticaMAP4.csproj",
       "projectName": "PracticaMAP4",
-      "projectPath": "C:\\Grupo07\\PracticaMAP4\\PracticaMAP4\\PracticaMAP4.csproj",
-      "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
-      "outputPath": "C:\\Grupo07\\PracticaMAP4\\PracticaMAP4\\obj\\",
+      "projectPath": "C:\\Users\\elena\\Desktop\\Grupo07\\Grupo07JuegoConsola\\PracticaMAP4\\PracticaMAP4\\PracticaMAP4.csproj",
+      "packagesPath": "C:\\Users\\elena\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elena\\Desktop\\Grupo07\\Grupo07JuegoConsola\\PracticaMAP4\\PracticaMAP4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\elena\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
