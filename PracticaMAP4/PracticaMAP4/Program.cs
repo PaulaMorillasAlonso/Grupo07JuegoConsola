@@ -8,5 +8,9 @@ namespace PracticaMAP4
         {
             Console.WriteLine("Hello World!");
         }
+        static public void CambiaColor()
+        {
+            Console.BackgroundColor = ConsoleColor.Green;
+        }
     }
 }
